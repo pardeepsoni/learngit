@@ -1,10 +1,11 @@
 Demo Project Readme
-gggjfhf
-gggg
-aaaaaaa
-nnnnng
 
+Starting learning GIT
 
-New update from the branch
-update from stage
-another change
+my first line in GIT
+
+My second line in GIT
+
+I learn the basic
+
+I am enjoying it.
